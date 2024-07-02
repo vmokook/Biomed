@@ -15,36 +15,36 @@
 #### Исходный сигнал по варианту:
 
 <p align="center">
- <img width="500px" src="Image/img1.png" alt="qr"/>
+ <img width="500px" src="Image/1/img1.png" alt="qr"/>
 </p>
 
 #### Реализация фильтра Баттерворда: ФНЧ (слева) и ФВЧ (справа): 
 <p align="center">
-    <img src="Image/img2.png" width="400" /> 
-    <img src="Image/img3.png" width="400" /> 
+    <img src="Image/1/img2.png" width="400" /> 
+    <img src="Image/1/img3.png" width="400" /> 
 </p>
 
 #### Реализация фильтра Чебышева 1 рода: ФНЧ (слева) и ФВЧ (справа): 
 <p align="center">
-    <img src="Image/img4.png" width="400" /> 
-    <img src="Image/img5.png" width="400" /> 
+    <img src="Image/1/img4.png" width="400" /> 
+    <img src="Image/1/шmg5.png" width="400" /> 
 </p>
 
 #### Реализация фильтра Чебышева 2 рода: ФНЧ (слева) и ФВЧ (справа): 
 <p align="center">
-    <img src="Image/img6.png" width="400" /> 
-    <img src="Image/img7.png" width="400" /> 
+    <img src="Image/1/img6.png" width="400" /> 
+    <img src="Image/1/img7.png" width="400" /> 
 </p>
 
 #### Реализация фильтра Бесселя: ФНЧ (слева) и ФВЧ (справа): 
 <p align="center">
-    <img src="Image/img8.png" width="400" /> 
-    <img src="Image/img9.png" width="400" /> 
+    <img src="Image/1/img8.png" width="400" /> 
+    <img src="Image/1/img9.png" width="400" /> 
 </p>
 
 #### Режекторный фильтр: 
 <p align="center">
- <img width="500px" src="Image/img10.png" alt="qr"/>
+ <img width="500px" src="Image/1/img10.png" alt="qr"/>
 </p>
 
 **Выводы:** практически все фильтры НЧ смогли отфильтровать ВЧ-помехи, кроме фильтра Чебышева 2-го рода. 
